@@ -1,2 +1,2 @@
 # Year-1
-University Work during first year
+University work during First year
