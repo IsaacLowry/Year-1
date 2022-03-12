@@ -1,0 +1,1 @@
+java -jar Binary_Trees.jar nogui
